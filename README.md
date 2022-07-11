@@ -14,3 +14,4 @@
 |2022.06.29|[수박](https://programmers.co.kr/learn/courses/30/lessons/12922)|Level1|[약수](https://programmers.co.kr/learn/courses/30/lessons/77884)|Level1|
 |2022.06.30|[ATM](https://www.acmicpc.net/problem/11399)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[K번째 수](https://www.acmicpc.net/problem/11004)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>
 |2022.07.01|[배열 합치기](https://www.acmicpc.net/problem/11728)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>
+|2022.07.11|[커트라인](https://www.acmicpc.net/problem/25305)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[콘테스트](https://www.acmicpc.net/problem/5576)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>
