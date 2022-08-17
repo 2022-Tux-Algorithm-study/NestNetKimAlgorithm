@@ -1,4 +1,10 @@
 # 정열적인 정렬
 
-6
-14 5 8 7 1 10
+import sys
+
+n = int(sys.stdin.readline())
+num = list(map(int, sys.stdin.readline().split()))
+num.sort()
+
+for i in num:
+  print(i, end=' ')
